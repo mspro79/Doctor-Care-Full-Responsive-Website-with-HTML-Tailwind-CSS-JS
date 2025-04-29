@@ -1,0 +1,16 @@
+/* text-animation  */
+/* @keyframes text-animation{
+    0%{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.hero-content{
+ animation: text-animation 1s ease-in-out forwards;
+    animation-delay: 0.5s;
+    opacity: 0;
+} */
